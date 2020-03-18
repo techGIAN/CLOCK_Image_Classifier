@@ -1,3 +1,5 @@
+### Professor X. Gao's Sample R Code
+### Original Source can be found at https://xingao.info.yorku.ca/files/2020/01/math3333projectsamplecode.txt
 ### Photograph examples
 
 ## Read in the library and metadata
